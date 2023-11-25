@@ -1,5 +1,3 @@
-[![MasterHead](https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg)](https://elshafei-developer.github.io/src/)
-
 <h1 align="center">Hi 👋, I'm EL-shafei H.</h1>
 <h3 align="center">Front-End Web developer, React.js ⭐| Next.js 👍</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>

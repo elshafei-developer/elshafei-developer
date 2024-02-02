@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm EL-shafei H.</h1>
-<h3 align="center">Front-End Web developer, React.js ⭐| Next.js 👍</h3>
+<h3 align="center">JavaScript ⭐| Python 👍</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
 - 🔭 I’m currently working on [mostaql](https://mostaql.com/u/HA_shafeai/reviews) Freelancer
 
-- 🌱 I’m currently learning **Node.js , DevOps , clean-code**
+- 🌱 I’m currently learning **Frappe Framwork , ERPNext , Node.js , DevOps , clean-code**
 
 - 👨‍💻 All of my projects are available at [https://elshafei-developer.github.io/src/](https://elshafei-developer.github.io/src/)
 
-- 💬 Ask me about **React.js | Next.js | FrontEnd developer**
+- 💬 Ask me about **web developer**
 
 - 📫 How to reach me **el.shafei.developer@gmail.com**
 

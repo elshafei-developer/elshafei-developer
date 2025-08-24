@@ -1,30 +1,79 @@
 <h1 align="center">Hi 👋, I'm EL-shafei H.</h1>
-<h3 align="center">JavaScript ⭐| Python 👍</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<h3 align="center">A passionate Frappe Framework and ERPNext Developer</h3>
 
-
-- 🔭 I’m currently working on [Amal Shark](https://amalshark.com/) 
-
-- 🌱 I’m currently learning **Frappe Framwork , ERPNext , Node.js , DevOps , clean-code**
-
-- 👨‍💻 All of my projects are available at [https://elshafei-developer.github.io/src/](https://elshafei-developer.github.io/src/)
-
-- 💬 Ask me about **web developer**
-
-- 📫 How to reach me **el.shafei.developer@gmail.com**
-
-- ⚡ Fun fact **I'm excited**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elshafei-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elshafei-dev" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ1YjAyYjdlZDY4ZWM4ZTc4M2EyZWIxZDE2MjYyYjQ4ZDYwY2NmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYCHd2P32z4s46pX/giphy.gif" width="400" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+I'm a software developer with a strong focus on the Frappe Framework and ERPNext. I enjoy building robust and scalable applications that solve real-world problems. I'm proficient in both Python and JavaScript, the core technologies of the Frappe ecosystem.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elshafei-developer&show_icons=true&locale=en&layout=compact" alt="elshafei-developer" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elshafei-developer&show_icons=true&locale=en" alt="elshafei-developer" /></p>
+### 🔧 Skills & Technologies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elshafei-developer&" alt="elshafei-developer" /></p>
+<p align="left">
+  <a href="https://frappeframework.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/frappe/frappe/develop/frappe/public/images/frappe-framework-logo.svg" alt="frappe" width="40" height="40"/> </a>
+  <a href="https://erpnext.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/erpnext-logo-blue.svg" alt="erpnext" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 🚀 My Contributions to Frappe & ERPNext
+
+I'm actively contributing to the Frappe and ERPNext ecosystem. Here are some of my contributions:
+
+**Forked Repositories:**
+
+*   [frappe/frappe](https://github.com/elshafei-developer/frappe): The core of the Frappe Framework.
+*   [frappe/erpnext](https://github.com/elshafei-developer/erpnext): The world's top 100% open source ERP.
+*   [frappe/hrms](https://github.com/elshafei-developer/hrms): Open Source HR and Payroll Software.
+
+**Pull Requests:**
+
+*   *Please add a link to your Pull Request here.*
+*   *Please add a link to your Pull Request here.*
+
+**Issues:**
+
+*   *Please add a link to your Issue here.*
+*   *Please add a link to your Issue here.*
+
+---
+
+### 💻 My Projects
+
+Here are some of my other projects. You can find more on my [portfolio website](https://elshafei-developer.github.io/src/).
+
+*   [Online Store Website](https://elshafei-developer.github.io/Online-store-website/)
+*   [Animal Adoption Site](https://elshafei-developer.github.io/animal-adoption-site)
+*   [Product Landing Page](https://elshafei-developer.github.io/product-landing-page/dist)
+
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+<a href="https://linkedin.com/in/elshafei-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elshafei-dev" height="30" width="40" /></a>
+<a href="mailto:el.shafei.developer@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="el.shafei.developer@gmail.com" height="30" width="40" /></a>
+<a href="https://t.me/Hassan_shafeai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Hassan_shafeai" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elshafei-developer&show_icons=true&locale=en&layout=compact" alt="elshafei-developer" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elshafei-developer&show_icons=true&locale=en" alt="elshafei-developer" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elshafei-developer&" alt="elshafei-developer" />
+</p>

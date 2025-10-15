@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Amal Shark](https://amalshark.com/) 
 
-- 🌱 I’m currently learning **Frappe Framwork , ERPNext , Node.js , DevOps , clean-code**
-
 - 👨‍💻 All of my projects are available at [https://elshafei-developer.github.io/src/](https://elshafei-developer.github.io/src/)
 
 - 💬 Ask me about **web developer**

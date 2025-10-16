@@ -1,1 +1,35 @@
+name: Update README with GitHub Activity
 
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # مرة أسبوعياً (كل أحد منتصف الليل UTC)
+  workflow_dispatch:     # للتشغيل اليدوي
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/update-readme.js
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "🔄 Update GitHub Activity" || echo "No changes"
+          git push

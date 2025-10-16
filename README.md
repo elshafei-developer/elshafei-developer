@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elshafei-developer&show_icons=true&locale=en" alt="elshafei-developer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elshafei-developer&" alt="elshafei-developer" /></p>
+
+## 🧩 Recent GitHub Activity
+(Loading...)
+
